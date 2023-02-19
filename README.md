@@ -24,5 +24,6 @@ pip3 install pyshorteners
 python3 SPY-MASKER.py
 ```
 ## 💻FOR WINDOWS ONLY -:
+**EXTRACT THE ZIP FILE**<br>
 **USE THE EXE FILE IN THE GIVEN FOLDER .**
 
